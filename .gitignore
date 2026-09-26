@@ -1,0 +1,10 @@
+_pycache_/
+*.pyc
+.env
+.vscode/
+.idea/
+venv/
+*.log
+
+data/consumed_orders.csv
+data/cleaned_orders.csv
